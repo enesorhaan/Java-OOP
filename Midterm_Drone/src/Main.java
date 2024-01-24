@@ -26,6 +26,19 @@ public class Main {
         vasita1.hizlan();
         vasita2.hizlan();
     }
+
+    // Output:
+//    Araba hizlaniyor
+//    Araba yavasliyor
+//    Drone Hızlanıyor
+//    Drone yavasliyor
+//    Drone otonom uçabiliyor
+//    Kendi süpürebiliyor
+//    Sofor atandi: Ahmet
+//    Arabanın soforu: Ahmet
+//    Araba hizlaniyor
+//    Drone Hızlanıyor
+
 }
 
 interface Vasita{
