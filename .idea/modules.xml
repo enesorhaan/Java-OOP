@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Midterm/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/Midterm/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Midterm/Demo/Demo.iml" filepath="$PROJECT_DIR$/Midterm/Demo/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Midterm/Exception/Exception.iml" filepath="$PROJECT_DIR$/Midterm/Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final/Final.iml" filepath="$PROJECT_DIR$/Final/Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Midterm/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Midterm/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Midterm/first/first.iml" filepath="$PROJECT_DIR$/Midterm/first/first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/master-javaCode.iml" filepath="$PROJECT_DIR$/.idea/master-javaCode.iml" />
+    </modules>
+  </component>
+</project>
